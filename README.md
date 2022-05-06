@@ -2,9 +2,9 @@
 <h1 align="center">Hi  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="35"> It's Nirmal!  </h1>
 
 
-- 🔭 I’m currently working on [Hackodisha](https://github.com/Hackodisha/hackodisha-web)
+- 🔭 I’m currently working on **Computer Vision**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **chathuraun@gmail.com**
 
