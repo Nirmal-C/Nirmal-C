@@ -2,9 +2,9 @@
 <h1 align="center">Hi  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="35"> It's Nirmal!  </h1>
 
 
-- 🔭 I’m currently working on **Native App Development**
+- 🔭 I’m currently working on **Spring Boot App Development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **chathuraun@gmail.com**
 
